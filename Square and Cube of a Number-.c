@@ -10,21 +10,21 @@ main()
   if(i==1)
   {
      float a,sq;
-     printf("ENTER ANY NUMBER YOU WANT TO SQUARE:-");
+     printf("ENTER ANY NUMBER YOU WANT TO SQUARE :-");
      scanf("%f",&a);
      
      sq=a*a;
-     printf("SQUARE OF THE NUMBER IS:- %f",sq);
+     printf("SQUARE OF THE NUMBER IS :- %f",sq);
     }
     else if(i==2)
     {
      float b,q;
-     printf("ENTER ANY NUMBER YOU WANT TO CUBE:- ");
+     printf("ENTER ANY NUMBER YOU WANT TO CUBE :- ");
      scanf("%f",&b);
      
      q=b*b*b;
      
-     printf("CUBE OF THE NUMBER IS:- %f",q);
+     printf("CUBE OF THE NUMBER IS :- %f",q);
     }
     else
     {
