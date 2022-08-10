@@ -21,15 +21,20 @@
 	else if(c>40)
 	{
 	printf("You are in Danger please contect the doctor\n",c);
-        }
-        else if(c<33)
-        {
+    }
+    else if(c<33)
+    {
     	printf("You're temp is low\n",c);
 	}
-        else
-       {
+    else
+    {
 	printf("Stay safe"); 
-       }
-        printf("You are precious to your family");
- }
+    }
+    
+    printf("You are precious to your family");
+
+
+
+
+}
 
