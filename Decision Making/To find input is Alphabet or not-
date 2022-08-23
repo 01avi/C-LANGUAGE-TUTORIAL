@@ -1,0 +1,13 @@
+#include<stdio.h>
+main()
+{
+  char ch;
+  printf("ENTER YOUR CHOICE:- ");	
+  scanf("%c", &ch);
+     if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z' )) {
+	       printf("Your input is an Alphabet");
+     }
+     else {
+	       printf("Your input is not an Alphabet"");
+     }
+}
