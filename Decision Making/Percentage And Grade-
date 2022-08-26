@@ -4,18 +4,16 @@ main()
 	int phy, che, math, hindi, english;
 	float per;
 	printf("Enter Physics marks: -");
-  scanf("%d", &phy);
-  printf("Enter Chemistry marks: -");
-   scanf("%d", &che);
-  printf("Enter Mathmatics marks: -");
-   scanf("%d", &math);
-  printf("Enter Hindi marks: -");
-   scanf("%d", &hindi);
-  printf("Enter English marks: -");
-   scanf("%d", &english);
+        scanf("%d", &phy);
+        printf("Enter Chemistry marks: -");
+        scanf("%d", &che);
+        printf("Enter Mathmatics marks: -");
+        scanf("%d", &math);
+        printf("Enter Hindi marks: -");
+        scanf("%d", &hindi);
+        printf("Enter English marks: -");
+        scanf("%d", &english);
   
-	scanf("%d %d %d %d %d", &phy, &che, &math, &hindi, &english);
-	
 	per = ( phy + che + math + hindi + english ) / 5;
 	printf("Percentage is:- %.2f\n", per);
 	if(per>=90) {
