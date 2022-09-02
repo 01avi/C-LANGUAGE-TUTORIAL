@@ -9,12 +9,12 @@ main()
 	printf("Enter Angle 3 of triangle:-\n ");
 	scanf("%d", &Angle3);
 	
-	SUM=Angle1+ Angle2+ Angle3;
+	SUM=Angle1 + Angle2 + Angle3;
 	
 	if(SUM==180 && Angle1>0 && Angle2>0 && Angle3>0) {
 		printf("This triangle is valid");
 		
-	} else if(Angle1==60 || Angle1==90 && Angle2==60 || Angle2==90 && Angle3==60|| Angle3==90) {
+	} else if(Angle1==60 && Angle2==60 && Angle3==90 || Angle1==90 && Angle2==60 && Angle3==60 || Angle2==90 && Angle3==60 && Angle3==60) {
 		printf("This triangle is valid and it is a right angle triangle");
 		
 	} else {
