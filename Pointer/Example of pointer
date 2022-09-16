@@ -6,7 +6,7 @@ main()
 	int *c;
 	b=&a;
 	c=b;
-	printf("\nvalue of a=%d",a);
+	printf("\nvalue of a =%d",a);
 	printf("\naddress of a=%u",&a);
 	printf("\nvalue of b=%d",a);
 	printf("\naddress of b=%u",&(*b));
