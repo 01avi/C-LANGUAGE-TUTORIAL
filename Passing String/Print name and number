@@ -3,9 +3,9 @@ main()
 {
 	char name[20];
 	char mobile[10];
-	printf("ENTER YOUR GOOD NAME:-");
+	printf("ENTER YOUR GOOD NAME:- ");
 	scanf("%s",&name);
-	printf("ENTER YOUR MOBILE NUMBER:-");
+	printf("ENTER YOUR MOBILE NUMBER:- ");
 	scanf("%s",&mobile);
 	printf("\nYOUR NAME IS:-%s\n",name);
 	printf("\nYOUR MOBILE NUMBER IS:-%s\n",mobile);
