@@ -5,8 +5,8 @@ main()
 	printf("Enter right angle length:- ");
 	scanf("%d", &n);
 
-      for( i=1;i<=n;i++){
-            for( j=1;j<=i;j++){
+      for( i=1;i<=n;i++) {
+            for( j=1;j<=i;j++) {
              y=i+j;
             if(y%2==0){
                printf("1 ");
