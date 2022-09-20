@@ -2,7 +2,7 @@
 main()
 {
 	int n,i,j;
-	printf("Enter Pyramid length:- ");
+	printf("Enter Pyramid Length:- ");
 	scanf("%d", &n);
 	
 	       //upper half;
