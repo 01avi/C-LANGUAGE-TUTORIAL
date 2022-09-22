@@ -16,9 +16,11 @@ main()
      float b,q;
      printf("ENTER ANY NUMBER YOU WANT TO CUBE :- ");
      scanf("%f",&b);
+
      q=b*b*b;
      printf("CUBE OF THE NUMBER IS :- %f",q);
     } else {
     printf("INVALID INPUT!!");
   }
 }
+P
