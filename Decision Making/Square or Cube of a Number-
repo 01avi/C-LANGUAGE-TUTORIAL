@@ -23,4 +23,3 @@ main()
     printf("INVALID INPUT!!");
   }
 }
-P
