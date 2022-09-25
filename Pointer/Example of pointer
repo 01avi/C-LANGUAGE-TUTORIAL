@@ -1,11 +1,11 @@
 #include<stdio.h>
 main()
 {
-	int a=10;
+	int a = 10;
 	int *b;
 	int *c;
 	b=&a;
-	c=b;
+	c = b;
 	printf("\nvalue of a =%d",a);
 	printf("\naddress of a=%u",&a);
 	printf("\nvalue of b=%d",a);
