@@ -2,7 +2,7 @@
 void devide()
 {
 	int a,b,devide;
-	printf("ENTER TWO NUMBERS:-");
+	printf("ENTER TWO NUMBE  RS:-");
 	scanf("%d%d",&a,&b);
 	devide=a/b;
 	printf("DEVIDE OF NUMBERS :- %d\n",devide);
