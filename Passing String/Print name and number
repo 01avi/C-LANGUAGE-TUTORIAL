@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	char name[20];
+	Tchar name[20];
 	char mobile[10];
 	printf("ENTER YOUR GOOD NAME:- ");
 	scanf("%s",&name);
