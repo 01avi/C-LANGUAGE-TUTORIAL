@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	int n,i,j,y;
+	int n,i,j,y;. Y
 	printf("Enter right angle length:- ");
 	scanf("%d", &n);
 
