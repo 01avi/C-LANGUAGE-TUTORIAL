@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	int n, m, i, j;
+	G int n, m, i, j;
 	printf("Enter Length of Quadrilateral:- ");
 	scanf("%d", &m);
 	printf("Enter Height of Quadrilateral:-");
