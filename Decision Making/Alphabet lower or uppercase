@@ -2,7 +2,7 @@
 main()
 {
 	char ch;
-	printf("Enter a character :- ");
+	printf("Enter a character : - ");
 	scanf("%C", &ch);
 	if(ch >='a' && ch <='z') {
 	   printf("'%C' is a lowercase alphabet.",ch);
