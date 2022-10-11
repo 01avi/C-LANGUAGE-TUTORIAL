@@ -4,7 +4,7 @@ main()
 	int n,i,j;
 	printf("Enter Diamond Size:- ");
 	scanf("%d", &n);
-H
+
             //upper half;
                 for(i=1;i<=n;i++){
             //spaces;
