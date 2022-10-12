@@ -4,7 +4,7 @@ int main()
 	int b,row,coloumn,s;
 	int a=10;
 	
-    printf("Enter starting point:- ");
+        printf("Enter starting point:- ");
 	scanf("%d",&s);
 
 	printf("Enter last point:- ");
