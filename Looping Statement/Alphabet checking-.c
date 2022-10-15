@@ -3,8 +3,8 @@ main()
 {
 	char ch;
 
-	printf("ENTER ANY CHARACTER:-");
-		do{
+	printf("ENTER ANY CHARACTER:-"); 
+        do{
 	scanf("%c",&ch);
 
 	
