@@ -3,7 +3,7 @@ main()
 {
 	char ch;
 
-	printf("ENTER ANY CHARACTER:-"); 
+	printf("ENTER ANY ONE CHARACTER:-"); 
         do{
 	scanf("%c",&ch);
 
@@ -68,7 +68,7 @@ main()
 	   else if(ch=='U')
 	   {
 		printf("VOWEL");
-	}
+	 }
 	
 	
 	    else if(ch=='0')
@@ -80,5 +80,5 @@ main()
 		printf("CONSONANET");
 	}
 
-}while(ch=='0');
+   }while(ch=='0');
 }
