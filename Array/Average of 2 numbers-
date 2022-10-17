@@ -7,7 +7,7 @@ main()
 	float average;
 	for(i=0;i<5;i++)
 	{
-		printf("ENTER FIVE SUBJECTS MARKS:- ");
+		printf("ENTER FIVE UBJECTS MARKS:- ");
 		scanf("%f",&marks [i]);
 	} for(i=0;i<5;i++) {
 		   sum=sum+marks[i];
