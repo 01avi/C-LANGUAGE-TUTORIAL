@@ -5,7 +5,7 @@ void add()
 	printf("ENTER TWO NUMBERS:-");
 	scanf("%d%d",&x,&y);
 	z= x+y;
-	printf("sum of two numbers is:-%d",z);
+	printf("sum of two numbers is:- %d",z);
 }
 void main()
 {
