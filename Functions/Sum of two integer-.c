@@ -1,7 +1,7 @@
 #include<stdio.h>
 void add()
 {
-	int x, y,z;
+	int x, y,z;h
 	printf("ENTER TWO NUMBERS:- ");
 	scanf("%d%d",&x,&y);
 	z= x+y;
