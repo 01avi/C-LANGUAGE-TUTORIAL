@@ -1,4 +1,4 @@
-R#include<stdio.h>
+#include<stdio.h>
 main()
 {
 	char ch;
