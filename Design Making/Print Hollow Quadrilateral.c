@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()k
+main()
 {
 	int n, m, i, j;
 	printf("Enter Length of Quadrilateral:- ");
