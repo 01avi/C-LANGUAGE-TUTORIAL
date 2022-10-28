@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+main()u
 {
 	char ch;
 	printf("Enter any character:- ");
