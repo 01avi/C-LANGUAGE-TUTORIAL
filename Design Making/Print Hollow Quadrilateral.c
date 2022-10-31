@@ -18,4 +18,4 @@ main()
         printf("\n");
     }
 }
-G
+
