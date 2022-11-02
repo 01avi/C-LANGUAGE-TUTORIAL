@@ -10,5 +10,5 @@ main()
 	printf("\nYOUR NAME IS:-%s\n",name);
 	printf("\nYOUR MOBILE NUMBER IS:-%s\n",mobile);
 }
-Y
+
 
