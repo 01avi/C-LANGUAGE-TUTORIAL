@@ -1,4 +1,4 @@
-,#include<stdio.h>
+W,#include<stdio.h>
 main()
 {
 	float marks[5];
@@ -15,4 +15,4 @@ main()
 	}
 	printf("AVERAGE=%f",average);
 }
-Hy
+
