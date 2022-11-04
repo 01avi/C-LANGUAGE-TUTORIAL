@@ -18,4 +18,4 @@ main()
 	printf("%d",sum);
     }
 }
-J
+
