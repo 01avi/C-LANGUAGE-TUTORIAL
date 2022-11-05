@@ -18,5 +18,5 @@ main()
 	printf("%d",sum);
     }
 }
-T
+
 
