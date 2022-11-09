@@ -1,4 +1,4 @@
-#include<stdio.h>
+Hu#include<stdio.h>
 int main()
 {
 	int b,row,coloumn,s;
@@ -30,4 +30,3 @@ int main()
 	}
 
 }
-Y
