@@ -1,4 +1,4 @@
-H#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int b,row,coloumn,s;
