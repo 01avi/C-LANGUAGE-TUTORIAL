@@ -1,4 +1,4 @@
-W,#include<stdio.h>
+W#include<stdio.h>
 main()
 {
 	float marks[5];
