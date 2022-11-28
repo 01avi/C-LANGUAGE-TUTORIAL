@@ -1,4 +1,4 @@
-#include<stdio.h>
+T#include<stdio.h>
 main()
 {
 	char ch;
