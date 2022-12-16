@@ -1,4 +1,4 @@
-#include<stdio.h>y
+#include<stdio.h>
 main()
 {
 	char ch;
@@ -9,6 +9,6 @@ main()
 	}else if(ch >='A' && ch <='Z') {
 	   printf("'%C'character is a uppercase alphabet.",ch);
 	}else {
-     printf("'%C'this is not alphabet");
+           printf("'%C'this is not alphabet");
 	}
 }
