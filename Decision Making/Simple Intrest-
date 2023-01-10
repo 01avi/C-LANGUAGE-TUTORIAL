@@ -1,6 +1,7 @@
 #include<stdio.h>
 main()
 {
+
   float A,Z,B,C,SI;
     printf("Enter the Principle Amount:- ");
     scanf("%f", &A);
