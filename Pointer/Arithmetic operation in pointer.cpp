@@ -25,6 +25,4 @@ int main(){
 	
 	d=p-q;
 	printf("d=q-p answer is:- %d\n",d);
-	
-	
 }
