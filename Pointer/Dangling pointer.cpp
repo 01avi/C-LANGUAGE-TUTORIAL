@@ -6,5 +6,5 @@ int main(){
 		ptr=&a;
 		printf("a in scope=%d\n",*ptr);
 	}
-	printf("a outside the scope=%d",*ptr);
+	 printf("a outside the scope=%d",*ptr);
 }
