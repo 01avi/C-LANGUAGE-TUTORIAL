@@ -1,6 +1,5 @@
 #include<stdio.h>
 void sum()
-	
 {
 	float a,b,sum=0;
 	printf("ENTER TWO NUMBERS;-");
