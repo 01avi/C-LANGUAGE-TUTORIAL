@@ -1,7 +1,8 @@
 #include<stdio.h>
 main()
 {
-	float marks[5];
+	f
+	loat marks[5];
 	int i;
 	float sum=0;
 	float average;
