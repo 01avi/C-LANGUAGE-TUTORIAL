@@ -2,6 +2,7 @@
 main()
 { 
 
+
 	float marks[5];
 	int i;
 	float sum=0;
