@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()y
+main()
 {
 	float marks[5];
 	int i;
