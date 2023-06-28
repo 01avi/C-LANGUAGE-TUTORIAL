@@ -4,6 +4,7 @@ main()
 	float marks[5];
 	int i;
 	float sum=0;
+
 	float average;
 	for(i=0;i<5;i++)
 	{
