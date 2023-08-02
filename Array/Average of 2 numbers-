@@ -1,4 +1,4 @@
-e#include<stdio.h>
+ee#include<stdio.h>
 main()
 {
 	float marks[5];
