@@ -52,7 +52,7 @@ public class DynamicPattern3 {
 
 
         for (i = 0; i < n / 2 + 1; i++) {
-            for (j = 0; j < n*2; j++) {
+            for (j = 0; j < n*2+1; j++) {
                 if(j>=i&&j<=n-1-i || j>=n+1+i && j<=n*2-i){
                  System.out.print("*");
                 }
