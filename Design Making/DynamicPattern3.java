@@ -1,3 +1,17 @@
+ // *******
+ // *     *
+ // *     *
+ // *     *
+ // *******
+ // @     @
+ // @     @
+ // @     @
+ // @     @
+ // @     @
+//***** ****
+// ***   ***
+//  *     * 
+
 package Placement;
 
 import java.util.*;
@@ -5,7 +19,7 @@ public class DynamicPattern3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number:- ");
-        int n = 5;
+        int n = sc.nextInt();;
         int i, j, k;
         for (i = 0; i < n; i++) {
             for (j = 0; j < n / 2; j++) {
