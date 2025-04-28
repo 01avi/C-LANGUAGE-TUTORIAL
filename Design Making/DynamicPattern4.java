@@ -1,3 +1,23 @@
+//     *
+//    ***
+//   *****
+//   *   *
+//   *   *
+//   *   *
+//   *   *
+//   *   *
+//  e     e
+// ee     ee
+//eee     eee
+// ee     ee
+//  e     e
+//    *****
+//    *****
+//    *****
+//    *****
+//    *****
+
+
 package Placement;
 
 import java.util.Scanner;
